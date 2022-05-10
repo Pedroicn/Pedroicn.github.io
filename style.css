@@ -9,8 +9,8 @@ body {
     
   }
 
-  div {
-    text-align: center;
+  #profile-picture {
+    margin-left: 20px;
   }
 
   img {
